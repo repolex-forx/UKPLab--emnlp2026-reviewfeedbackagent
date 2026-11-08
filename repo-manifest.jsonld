@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2026-reviewfeedbackagent/commit/847fcb70d2eaf817dd9e50472943e1c57f630885",
       "git:hexsha": "847fcb70d2eaf817dd9e50472943e1c57f630885",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
