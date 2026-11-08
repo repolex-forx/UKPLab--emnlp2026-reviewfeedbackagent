@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "UKPLab",
+  "repo": "emnlp2026-reviewfeedbackagent",
+  "versions": [
+    {
+      "commit": "847fcb70d2eaf817dd9e50472943e1c57f630885",
+      "parsed_at": "2026-11-08T07:19:54.362338+00:00",
+      "filetree": "filetree/847fcb70d2eaf817dd9e50472943e1c57f630885.nq.gz",
+      "blobs": [
+        "blob/8ac366009619b5ec63cb8edf82b07e01a2c0fb66.nq.gz",
+        "blob/8a93e954dbeae1ae84b481ca6d40366583f77b04.nq.gz",
+        "blob/f448d15df02f86bd95ed3d9d00a4c6b9342956a8.nq.gz",
+        "blob/5123d8ab09b1a5d2062125417d1d7c77593775c5.nq.gz",
+        "blob/f5cb21dded1238253a9c0f9bde06470217a58d44.nq.gz",
+        "blob/40a4fe66d53ce7ac6493473d10b612784fac3ba6.nq.gz",
+        "blob/27f7e2bd2219a5cb8813606c7ab715a954005b7b.nq.gz",
+        "blob/ea6d05ea8f9d193059c6b06318dbcc5229e7b33a.nq.gz",
+        "blob/7b0f92ec8297dbd28e0d12ce891429b322dd7c1b.nq.gz",
+        "blob/bb2bf6c208788bbef0bc7f0e452baa318b942fdf.nq.gz",
+        "blob/c78879e003012c19b2229db28f4217d5a63a174e.nq.gz",
+        "blob/33d1d0b3a3a97f54718f19bbc52e87cc6aa3877d.nq.gz",
+        "blob/a63f2d8a0a7439de204a4df165b81dab12e57729.nq.gz",
+        "blob/89f79d04b69ed907c42ae436aa16e9cfa7cfd9bf.nq.gz",
+        "blob/4494992e95a890d760734ccf84e8f96ba53b132e.nq.gz",
+        "blob/37e03eb3343608883f37aa3365718c2247440b9d.nq.gz",
+        "blob/74fe77331bec21050d0de9008f05f372daa2fe71.nq.gz",
+        "blob/72d0e99fe566abeeb5562010315d44abcaf9905f.nq.gz",
+        "blob/214fd946e84cfa23a7427db750942225a0f3cc9d.nq.gz",
+        "blob/b2e04d2ea9a8d570947940ccf060e50994c09a47.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
